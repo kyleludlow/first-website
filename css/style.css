@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url('http://under30ceo.com/wp-content/uploads/2013/08/Gracie-Jiu-Jitsu-39711.jpg');
+	background-position: auto; 
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Open Sans';
+	font-weight: 400;
+}
+
+.text-spacing {
+	letter-spacing: 0.1em;
+}
+
+.container {
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	width: 100%;
+	height: 500px;
+	margin: 100px auto;
+	text-align: center;
+	color: white;
+}
+
+.heading-container {
+	margin-top: 11em;
+}
+
+.heading-container > h1 {
+	font-weight: 600;
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.heading-button {
+	margin-top: 1em;
+}
+
+

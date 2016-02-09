@@ -1,0 +1,16 @@
+body {
+	font-family: 'Open Sans';
+	font-weight: 400;
+}
+
+.text-spacing {
+	letter-spacing: 0.1em;
+}
+
+.jumbotron {
+	background: #ecf0f1;
+}
+
+img:hover {
+	opacity: 0.5;
+}
