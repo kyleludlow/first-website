@@ -1,0 +1,28 @@
+body {
+	font-family: 'Open Sans';
+	font-weight: 400;
+}
+
+.text-spacing {
+	letter-spacing: 0.1em;
+}
+
+.jumbotron {
+	background: #ecf0f1;
+}
+
+.content {
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.content h3 {
+	margin-top: 1.75em;
+	margin-bottom: 1.25em;
+	text-transform: uppercase;
+}
+
+.content p {
+	font-family: 'Open Sans Condensed';
+	font-size: 1.25em;
+}
